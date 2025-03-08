@@ -1,7 +1,7 @@
-# 🚀 Flight Mission Planner (MERN Stack)
+# 🚀 Drone Mission Planner (MERN Stack)
 
 ## 📌 Project Overview
-This project is a **Mission Planning System** where users can create, manage, and track flight missions between different cities using Google Maps. Missions can be **started, completed, canceled, and deleted**, with real-time updates on the map.
+This project is a **Mission Planning System** where users can create, manage, and track Drone missions between different cities using Google Maps. Missions can be **started, completed, canceled, and deleted**, with real-time updates on the map.
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js (JSX, Bootstrap, Google Maps API, WebSockets)
@@ -13,8 +13,8 @@ This project is a **Mission Planning System** where users can create, manage, an
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/flight-mission-planner.git
-cd flight-mission-planner
+git clone https://github.com/your-username/Drone-mission-planner.git
+cd Drone-mission-planner
 ```
 
 ### 2️⃣ **Backend Setup**
@@ -54,7 +54,7 @@ PORT=5000
 ✅ **Database Persistence** – Uses MongoDB to store all missions.
 
 ## 🎯 Future Improvements
-- ✈️ **Drone Animation** – Show movement along the flight path.
+- ✈️ **Drone Animation** – Show movement along the Drone path.
 - 🌍 **Dynamic City Selection** – Fetch city data from an API.
 - 🔄 **Mission History** – Store past missions for analytics.
 
@@ -64,4 +64,4 @@ Feel free to **fork this repository** and open **pull requests** for improvement
 
 ---
 Made with ❤️ by [PREM KUMAR SONI  ]
-# Flight-Mission-Planner
+# Drone-Mission-Planner
