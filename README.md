@@ -1,4 +1,4 @@
-# 🚀 Drone Mission Planner (MERN Stack)
+# 🚀 Aerius (MERN Stack)
 
 ## 📌 Project Overview
 This project is a **Mission Planning System** where users can create, manage, and track Drone missions between different cities using Google Maps. Missions can be **started, completed, canceled, and deleted**, with real-time updates on the map.
